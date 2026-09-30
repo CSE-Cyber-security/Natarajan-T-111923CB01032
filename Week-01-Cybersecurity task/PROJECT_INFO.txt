@@ -1,0 +1,3 @@
+Weekly Mini Project – 01
+Cybersecurity Asset Inventory System
+Prepared as a GitHub-ready Python CLI project.
